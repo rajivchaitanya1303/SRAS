@@ -1,0 +1,8 @@
+name: ablation_curriculum_fixed
+training:
+  curriculum_schedule: fixed
+  curriculum_fixed_docs: 30
+  ablations:
+    use_supervised_warmup: true
+    use_reward_shaping: true
+    use_curriculum_learning: true

@@ -1,0 +1,78 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints
+models/*.pt
+
+# Data files (embeddings/checkpoints only -- the corpus/QA/reward JSON files under
+# data/ are intentionally tracked for reproducibility and explicitly re-added below)
+data/*.npy
+data/*.pt
+!data/*.json
+
+# Training logs
+*.log
+*.tmp
+*.bak
+ppo_training_logs*.json
+
+# Results and intermediate outputs
+results/
+figures/
+
+# Ignore temporary scripts and test files
+tempCodeRunnerFile.py
+
+# IDE files
+.vscode/
+.idea/
+
+# Paper builds (if using LaTeX or similar)
+PAPER/
+*.aux
+*.out
+*.toc
+*.log
+*.pdf
+
+# PyTorch Lightning or HuggingFace cache (if used)
+lightning_logs/
+cache/
+
+# Large downloaded/cached model weights and datasets (not source, regenerable)
+data/hf_cache/
+*.safetensors
+*.arrow
+
+# Backup/archive directories and large bundles (not meant for the public repo)
+models_backup_t5base/
+results_backup_t5base/
+*.zip
+
+# Run logs from local batch scripts
+logs/
+
+# Local notes and drafts
+SRAS_PROJECT_CONTEXT.md
+SRAS_Contributions.docx
+SRAS_Versioned.docx
+TaD_Paper/
+run_revision.ps1

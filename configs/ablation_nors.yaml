@@ -1,0 +1,7 @@
+name: sras_ppo_nors
+
+training:
+  ablations:
+    use_supervised_warmup: true
+    use_reward_shaping: false
+    use_curriculum_learning: true

@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "How many tackles did Von Miller get during the game?",
+    "answer": "5",
+    "context_doc_id": "squad_ctx_0000"
+  },
+  {
+    "question": "What is controled by the market and economy?",
+    "answer": "workers wages",
+    "context_doc_id": "squad_ctx_0001"
+  },
+  {
+    "question": "What special audio recording was released for the 40th anniversary?",
+    "answer": "Zagreus",
+    "context_doc_id": "squad_ctx_0002"
+  },
+  {
+    "question": "When did the NFL start their 16 game seasons?",
+    "answer": "1978",
+    "context_doc_id": "squad_ctx_0003"
+  },
+  {
+    "question": "Who controlled Sicily before the Normans?",
+    "answer": "Saracens",
+    "context_doc_id": "squad_ctx_0004"
+  },
+  {
+    "question": "What was a long term goal of French foreign policy along the Rhine?",
+    "answer": "Establishing \"natural borders\"",
+    "context_doc_id": "squad_ctx_0005"
+  },
+  {
+    "question": "What city is the capital of Victoria?",
+    "answer": "Melbourne",
+    "context_doc_id": "squad_ctx_0006"
+  },
+  {
+    "question": "What does oxygen the basis for in combustion?",
+    "answer": "chemical energy",
+    "context_doc_id": "squad_ctx_0007"
+  },
+  {
+    "question": "Along with drought, what is one other factor that is pushing the Amazon rainforest towards a tipping point?",
+    "answer": "deforestation",
+    "context_doc_id": "squad_ctx_0008"
+  },
+  {
+    "question": "What type of person can not be attributed civil disobedience?",
+    "answer": "head of government",
+    "context_doc_id": "squad_ctx_0009"
+  },
+  {
+    "question": "Rather than taxation, what are private schools largely funded by?",
+    "answer": "tuition",
+    "context_doc_id": "squad_ctx_0010"
+  },
+  {
+    "question": "When did General Hospital begin airing?",
+    "answer": "1963",
+    "context_doc_id": "squad_ctx_0011"
+  },
+  {
+    "question": "What South African Vice Consul did Harvard students blockade the speech of?",
+    "answer": "South African Vice Consul Duke Kent-Brown.",
+    "context_doc_id": "squad_ctx_0012"
+  },
+  {
+    "question": "What is said to be the largest travelling funfair in Europe?",
+    "answer": "The Hoppings funfair",
+    "context_doc_id": "squad_ctx_0013"
+  },
+  {
+    "question": "What area is Newcastle's milder winters and cooler summers most similar to?",
+    "answer": "the British Isles",
+    "context_doc_id": "squad_ctx_0014"
+  },
+  {
+    "question": "What did the crew of Apollo 12 do with parts of the Surveyor they landed near after photographing them?",
+    "answer": "returned to Earth",
+    "context_doc_id": "squad_ctx_0015"
+  },
+  {
+    "question": "What famous conductor went to Harvard?",
+    "answer": "Leonard Bernstein",
+    "context_doc_id": "squad_ctx_0016"
+  },
+  {
+    "question": "During what decade did the campus start to look more modern?",
+    "answer": "the 1940s",
+    "context_doc_id": "squad_ctx_0017"
+  },
+  {
+    "question": "When was Warsaw ranked as the 32nd most liveable city in the world?",
+    "answer": "2012",
+    "context_doc_id": "squad_ctx_0018"
+  },
+  {
+    "question": "Who kept tabs on the accident review board that NASA created?",
+    "answer": "both houses of Congress",
+    "context_doc_id": "squad_ctx_0019"
+  },
+  {
+    "question": "Recent studies believe  that ctenophores are the sister lineage to what?",
+    "answer": "all other animals",
+    "context_doc_id": "squad_ctx_0020"
+  },
+  {
+    "question": "What cable company removed ABC stations from it's systems in certain markets in April 2000?",
+    "answer": "Time Warner Cable",
+    "context_doc_id": "squad_ctx_0021"
+  },
+  {
+    "question": "Approximately how many items from the Islamic world are held in the V&A collection?",
+    "answer": "over 19,000",
+    "context_doc_id": "squad_ctx_0022"
+  },
+  {
+    "question": "\"Bairn\" and \"hyem\" have origins from what culture?",
+    "answer": "Scandinavia",
+    "context_doc_id": "squad_ctx_0023"
+  },
+  {
+    "question": "When did Wesley appoint Thomas Coke as bishop?",
+    "answer": "1784",
+    "context_doc_id": "squad_ctx_0024"
+  },
+  {
+    "question": "At what university's facility did the Panthers practice?",
+    "answer": "San Jose State",
+    "context_doc_id": "squad_ctx_0025"
+  },
+  {
+    "question": "What was causing New France to have issues with resupplying?",
+    "answer": "British blockade of the French coastline limited French shipping.",
+    "context_doc_id": "squad_ctx_0026"
+  },
+  {
+    "question": "What is the glacial alpine valley known as?",
+    "answer": "Rhine Valley",
+    "context_doc_id": "squad_ctx_0027"
+  },
+  {
+    "question": "What are Apicomplexans a type of?",
+    "answer": "chromalveolates",
+    "context_doc_id": "squad_ctx_0028"
+  },
+  {
+    "question": "To whom did William Maclure submit the map?",
+    "answer": "the American Philosophical Society",
+    "context_doc_id": "squad_ctx_0029"
+  },
+  {
+    "question": "When had the Six Ministries existed?",
+    "answer": "since the Sui and Tang dynasties",
+    "context_doc_id": "squad_ctx_0030"
+  },
+  {
+    "question": "How many color analysts were involved with Super Bowl 50?",
+    "answer": "two",
+    "context_doc_id": "squad_ctx_0031"
+  },
+  {
+    "question": "What body part did Thomas Davis break during the NFC Championship Game?",
+    "answer": "arm",
+    "context_doc_id": "squad_ctx_0032"
+  },
+  {
+    "question": "Sky UK Limited is formerly known by what name?",
+    "answer": "BSkyB",
+    "context_doc_id": "squad_ctx_0033"
+  },
+  {
+    "question": "When did Zhu publish 'Jade Mirror of the Four Unknowns'?",
+    "answer": "1303",
+    "context_doc_id": "squad_ctx_0034"
+  },
+  {
+    "question": "What Queen opened the first covered railway station in the world?",
+    "answer": "Victoria",
+    "context_doc_id": "squad_ctx_0035"
+  },
+  {
+    "question": "To what may general global fields be transferred to or from?",
+    "answer": "completed (or local) fields",
+    "context_doc_id": "squad_ctx_0036"
+  },
+  {
+    "question": "Iran has assisted what type of groups in Iraq?",
+    "answer": "Shia terrorist",
+    "context_doc_id": "squad_ctx_0037"
+  },
+  {
+    "question": "Where was Genghis Khan likely born?",
+    "answer": "Delüün Boldog",
+    "context_doc_id": "squad_ctx_0038"
+  },
+  {
+    "question": "Who built a castle in Newcastle in 1080?",
+    "answer": "Robert Curthose",
+    "context_doc_id": "squad_ctx_0039"
+  },
+  {
+    "question": "Who were the Super Bowl 50 sideline announcers?",
+    "answer": "Tracy Wolfson and Evan Washburn",
+    "context_doc_id": "squad_ctx_0040"
+  },
+  {
+    "question": "What percent of the global assets in 2000 were owned by just 1% of adults?",
+    "answer": "40%",
+    "context_doc_id": "squad_ctx_0041"
+  },
+  {
+    "question": "What is colonialism's core meaning?",
+    "answer": "exploitation",
+    "context_doc_id": "squad_ctx_0042"
+  },
+  {
+    "question": "What modern-day country was Tesla born in?",
+    "answer": "Croatia",
+    "context_doc_id": "squad_ctx_0043"
+  },
+  {
+    "question": "How many membranes does Durinskia's chloroplast have?",
+    "answer": "up to five",
+    "context_doc_id": "squad_ctx_0044"
+  },
+  {
+    "question": "When was Skylab's last crew on the station before it re-entered Earth's atmosphere?",
+    "answer": "February 8, 1974",
+    "context_doc_id": "squad_ctx_0045"
+  },
+  {
+    "question": "What is the population of the Greater Los Angeles Area?",
+    "answer": "17,786,419",
+    "context_doc_id": "squad_ctx_0046"
+  },
+  {
+    "question": "What was formed to introduce changes that would reflect the nation's sovereignty?",
+    "answer": "Ominde Commission",
+    "context_doc_id": "squad_ctx_0047"
+  },
+  {
+    "question": "How quickly can an algorithm solve an NP-complete knapsack problem?",
+    "answer": "in less than quadratic time",
+    "context_doc_id": "squad_ctx_0048"
+  },
+  {
+    "question": "How did france differ from Britain in managing its colonies?",
+    "answer": "small numbers of settlers",
+    "context_doc_id": "squad_ctx_0049"
+  },
+  {
+    "question": "What do beroids typically eat?",
+    "answer": "ctenophores",
+    "context_doc_id": "squad_ctx_0050"
+  },
+  {
+    "question": "How else can petrologists understand the temperature at which different mineral phases appear?",
+    "answer": "physical experiments",
+    "context_doc_id": "squad_ctx_0051"
+  },
+  {
+    "question": "Who designed the \"50\"?",
+    "answer": "Tiffany & Co.",
+    "context_doc_id": "squad_ctx_0052"
+  },
+  {
+    "question": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?",
+    "answer": "chosen machine model",
+    "context_doc_id": "squad_ctx_0053"
+  },
+  {
+    "question": "What sea bordered Genghis Khan's empire to the east when he died?",
+    "answer": "Sea of Japan",
+    "context_doc_id": "squad_ctx_0054"
+  },
+  {
+    "question": "When did WLS launch a lineup of ABC radio programs?",
+    "answer": "May 9, 1960",
+    "context_doc_id": "squad_ctx_0055"
+  },
+  {
+    "question": "What TV station showed the broadcasts of the original Doctor Who series?",
+    "answer": "BBC 1",
+    "context_doc_id": "squad_ctx_0056"
+  },
+  {
+    "question": "When was the last plague outbreak?",
+    "answer": "The last plague outbreak ravaged Oslo in 1654.",
+    "context_doc_id": "squad_ctx_0057"
+  },
+  {
+    "question": "What event is held at Bells Beach in Victoria?",
+    "answer": "SurfClassic",
+    "context_doc_id": "squad_ctx_0058"
+  },
+  {
+    "question": "What previous Super Bowl halftime show did Bruno Mars headline?",
+    "answer": "Super Bowl XLVIII",
+    "context_doc_id": "squad_ctx_0059"
+  },
+  {
+    "question": "Why was the Rhine regulated?",
+    "answer": "constant flooding",
+    "context_doc_id": "squad_ctx_0060"
+  },
+  {
+    "question": "Who is currently the President of the Council?",
+    "answer": "Donald Tusk",
+    "context_doc_id": "squad_ctx_0061"
+  },
+  {
+    "question": "The fact that not all fossils may be found globally at the same time causes the principle to become what?",
+    "answer": "complex",
+    "context_doc_id": "squad_ctx_0062"
+  },
+  {
+    "question": "Who taped video intros for Doctor Who shows in Canada, that included a trivia question?",
+    "answer": "Christopher Eccleston",
+    "context_doc_id": "squad_ctx_0063"
+  },
+  {
+    "question": "What are other alternative names for French and Indian War?",
+    "answer": "Fourth Intercolonial War and the Great War for the Empire",
+    "context_doc_id": "squad_ctx_0064"
+  },
+  {
+    "question": "In between French and British, what groups controlled land?",
+    "answer": "native tribes",
+    "context_doc_id": "squad_ctx_0065"
+  },
+  {
+    "question": "When did the attack occur in which the Normans impressed Prince Guaimar III occur?",
+    "answer": "999",
+    "context_doc_id": "squad_ctx_0066"
+  },
+  {
+    "question": "What did Luther claim the church would have to comprise if the law were not taught?",
+    "answer": "essentially holy people",
+    "context_doc_id": "squad_ctx_0067"
+  },
+  {
+    "question": "What are antimicrobial peptides that evolved as immune defense in eukaryotes called?",
+    "answer": "defensins",
+    "context_doc_id": "squad_ctx_0068"
+  },
+  {
+    "question": "In which year did the museum started charging free admission fees?",
+    "answer": "2001",
+    "context_doc_id": "squad_ctx_0069"
+  },
+  {
+    "question": "In what century did Mayow and Boyle perform their experiments?",
+    "answer": "17th century",
+    "context_doc_id": "squad_ctx_0070"
+  },
+  {
+    "question": "What receptors do tumor cells often have reduced concentrations of?",
+    "answer": "MHC class I molecules",
+    "context_doc_id": "squad_ctx_0071"
+  },
+  {
+    "question": "What kind of chloroplasts do diatoms have?",
+    "answer": "a red algal derived chloroplast",
+    "context_doc_id": "squad_ctx_0072"
+  },
+  {
+    "question": "What was the last game that Elway played as a quarterback for Denver?",
+    "answer": "Super Bowl XXXIII",
+    "context_doc_id": "squad_ctx_0073"
+  },
+  {
+    "question": "Which article allows the European Council to govern mergers between firms?",
+    "answer": "Article 102",
+    "context_doc_id": "squad_ctx_0074"
+  },
+  {
+    "question": "What is \"The Gate\"?",
+    "answer": "indoor complex",
+    "context_doc_id": "squad_ctx_0075"
+  },
+  {
+    "question": "Who objected to Tetzel's collections of money to free souls from purgatory?",
+    "answer": "Luther",
+    "context_doc_id": "squad_ctx_0076"
+  },
+  {
+    "question": "What are colloblasts?",
+    "answer": "specialized mushroom-shaped cells in the outer layer of the epidermis",
+    "context_doc_id": "squad_ctx_0077"
+  },
+  {
+    "question": "Which basin does the dust falls over into?",
+    "answer": "Amazon basin",
+    "context_doc_id": "squad_ctx_0078"
+  },
+  {
+    "question": "Which principle is based on the appearance of fossils in sedimentary rocks?",
+    "answer": "The principle of faunal succession",
+    "context_doc_id": "squad_ctx_0062"
+  },
+  {
+    "question": "What root problem can cause starch buildup?",
+    "answer": "Waterlogged roots",
+    "context_doc_id": "squad_ctx_0079"
+  },
+  {
+    "question": "How does the D-loop finish replicating?",
+    "answer": "with a rolling circle mechanism",
+    "context_doc_id": "squad_ctx_0080"
+  },
+  {
+    "question": "What type of steam engine produces most electricity in the world today?",
+    "answer": "turbine",
+    "context_doc_id": "squad_ctx_0081"
+  },
+  {
+    "question": "To force Japan to be more involved in the crisis, what did Saudi and Kuwaiti government do?",
+    "answer": "5% production cut",
+    "context_doc_id": "squad_ctx_0082"
+  },
+  {
+    "question": "What kind of people attend the IPCC meetings?",
+    "answer": "government officials and climate change experts",
+    "context_doc_id": "squad_ctx_0083"
+  },
+  {
+    "question": "How many soldiers did Genghis Khan send against Kuchlug and Qara Khitai?",
+    "answer": "20,000",
+    "context_doc_id": "squad_ctx_0084"
+  },
+  {
+    "question": "What is the name of the movement that seeks renewed use of steam power in the modern era?",
+    "answer": "Advanced Steam",
+    "context_doc_id": "squad_ctx_0085"
+  },
+  {
+    "question": "Students build stronger relationships with what type of teachers?",
+    "answer": "friendly and supportive",
+    "context_doc_id": "squad_ctx_0086"
+  },
+  {
+    "question": "What dynasty did Zhang Rhou help attack?",
+    "answer": "Song dynasty",
+    "context_doc_id": "squad_ctx_0087"
+  },
+  {
+    "question": "What was the purpose of Loudoun's troops at Fort Henry?",
+    "answer": "to distract Montcalm",
+    "context_doc_id": "squad_ctx_0088"
+  },
+  {
+    "question": "How might gravity effects be observed differently according to Newton?",
+    "answer": "at larger distances.",
+    "context_doc_id": "squad_ctx_0089"
+  },
+  {
+    "question": "What chemist showed that fire needed only a part of air?",
+    "answer": "John Mayow",
+    "context_doc_id": "squad_ctx_0070"
+  },
+  {
+    "question": "Who is known as the first Keeper of Fine Art Collection at the V&A?",
+    "answer": "George Wallis",
+    "context_doc_id": "squad_ctx_0090"
+  },
+  {
+    "question": "What is the full official city name of Warsaw?",
+    "answer": "miasto stołeczne Warszawa",
+    "context_doc_id": "squad_ctx_0091"
+  },
+  {
+    "question": "What is the benefit of polypeptide binding?",
+    "answer": "keeping it from folding prematurely",
+    "context_doc_id": "squad_ctx_0092"
+  },
+  {
+    "question": "Supplies from Jacksonville were in support of which faction in the Civil War?",
+    "answer": "Confederate",
+    "context_doc_id": "squad_ctx_0093"
+  },
+  {
+    "question": "What did the IPCC apologize for?",
+    "answer": "\"the poor application of well-established IPCC procedures in this instance\"",
+    "context_doc_id": "squad_ctx_0094"
+  },
+  {
+    "question": "What company released the CD versions of the Doctor Who stories?",
+    "answer": "Big Finish Productions",
+    "context_doc_id": "squad_ctx_0095"
+  },
+  {
+    "question": "Even in large firms, architects, interior designers, engineers, developers, construction managers, and general contractors were more likely to be what?",
+    "answer": "entirely separate companies",
+    "context_doc_id": "squad_ctx_0096"
+  },
+  {
+    "question": "What is the area called near the Rhine Gorge with castles from the middle ages?",
+    "answer": "the Romantic Rhine",
+    "context_doc_id": "squad_ctx_0097"
+  },
+  {
+    "question": "What other health issues did Luther have?",
+    "answer": "arthritis, and an ear infection",
+    "context_doc_id": "squad_ctx_0098"
+  },
+  {
+    "question": "What are Apicomplexans similar to?",
+    "answer": "helicosproidia",
+    "context_doc_id": "squad_ctx_0028"
+  },
+  {
+    "question": "How much water does the Aare give to the Rhine?",
+    "answer": "1,000 m3/s (35,000 cu ft/s)",
+    "context_doc_id": "squad_ctx_0099"
+  },
+  {
+    "question": "What can chloroplasts change into?",
+    "answer": "chromoplasts",
+    "context_doc_id": "squad_ctx_0100"
+  },
+  {
+    "question": "Outside of national recognition, what other kind of recognition do some of the cities get?",
+    "answer": "global",
+    "context_doc_id": "squad_ctx_0101"
+  },
+  {
+    "question": "Who was NASA's administrator?",
+    "answer": "James E. Webb",
+    "context_doc_id": "squad_ctx_0102"
+  },
+  {
+    "question": "What group has approved the appointment of an openly partnered lesbian to the provisional diaconate?",
+    "answer": "Baltimore-Washington Conference of the UMC",
+    "context_doc_id": "squad_ctx_0103"
+  },
+  {
+    "question": "Tibetan art from which period is represented in the V&A collection?",
+    "answer": "from the 14th to the 19th century",
+    "context_doc_id": "squad_ctx_0104"
+  },
+  {
+    "question": "The term Huguenot was originally meant to confer?",
+    "answer": "derision",
+    "context_doc_id": "squad_ctx_0105"
+  },
+  {
+    "question": "What did Luther establish as a worship service in his church?",
+    "answer": "new form",
+    "context_doc_id": "squad_ctx_0106"
+  },
+  {
+    "question": "How long has the concept of legal certainty been recognized as one of the general principles by the EU law?",
+    "answer": "since the 1960s",
+    "context_doc_id": "squad_ctx_0107"
+  },
+  {
+    "question": "What Nobel Memorial Prize in Economic Sciences winner is also a university alumni member?",
+    "answer": "Milton Friedman",
+    "context_doc_id": "squad_ctx_0108"
+  },
+  {
+    "question": "What battle outside Quebec City did British lose in 1760?",
+    "answer": "Battle of Sainte-Foy",
+    "context_doc_id": "squad_ctx_0109"
+  },
+  {
+    "question": "What hymn did Luther write after the martyrdom of Esch and Voes?",
+    "answer": "Ein neues Lied wir heben an",
+    "context_doc_id": "squad_ctx_0110"
+  },
+  {
+    "question": "What was the name of the Doctor Who special created for Comic Relief?",
+    "answer": "Doctor Who and the Curse of Fatal Death",
+    "context_doc_id": "squad_ctx_0111"
+  },
+  {
+    "question": "Which former referee served as an analyst for CBS?",
+    "answer": "Mike Carey",
+    "context_doc_id": "squad_ctx_0112"
+  },
+  {
+    "question": "What's the average decibel level of noise in Newcastle?",
+    "answer": "80.4",
+    "context_doc_id": "squad_ctx_0113"
+  },
+  {
+    "question": "What theorem states that the probability that a number n is prime is inversely proportional to its logarithm?",
+    "answer": "the prime number theorem",
+    "context_doc_id": "squad_ctx_0114"
+  },
+  {
+    "question": "Which leading English tapestry workshop in the late 17th century and early 18th century is represented in the V&A collection?",
+    "answer": "John Vanderbank's workshop",
+    "context_doc_id": "squad_ctx_0115"
+  },
+  {
+    "question": "What did Luther form in 1525 to 1529?",
+    "answer": "supervisory church body",
+    "context_doc_id": "squad_ctx_0106"
+  },
+  {
+    "question": "How often does the European Council meet?",
+    "answer": "each six months",
+    "context_doc_id": "squad_ctx_0061"
+  },
+  {
+    "question": "What is a simple form of civil disobedience?",
+    "answer": "disobedience of laws",
+    "context_doc_id": "squad_ctx_0116"
+  },
+  {
+    "question": "What was the average cost for a 30 second commercial during Super Bowl 50?",
+    "answer": "$5 million",
+    "context_doc_id": "squad_ctx_0117"
+  },
+  {
+    "question": "Who is the field director of the NFL?",
+    "answer": "Ed Mangan",
+    "context_doc_id": "squad_ctx_0118"
+  },
+  {
+    "question": "What was the given name of Miami's stadium at the time of Super Bowl 50?",
+    "answer": "Sun Life Stadium",
+    "context_doc_id": "squad_ctx_0119"
+  },
+  {
+    "question": "What workshop helped with the creation of the Doctor Who theme?",
+    "answer": "the BBC Radiophonic Workshop",
+    "context_doc_id": "squad_ctx_0120"
+  },
+  {
+    "question": "What was Abu Hamaz al-Masri charged with when he was arrested?",
+    "answer": "incitement to terrorism",
+    "context_doc_id": "squad_ctx_0121"
+  },
+  {
+    "question": "High pressure steam engines were small enough that they could be used in what application?",
+    "answer": "transport",
+    "context_doc_id": "squad_ctx_0122"
+  },
+  {
+    "question": "What did DECnet originally do",
+    "answer": "connect two PDP-11 minicomputers",
+    "context_doc_id": "squad_ctx_0123"
+  },
+  {
+    "question": "When did Galor and Zeria show new information about inequality?",
+    "answer": "1993",
+    "context_doc_id": "squad_ctx_0124"
+  },
+  {
+    "question": "How many settlers original settled in Manakintown?",
+    "answer": "390",
+    "context_doc_id": "squad_ctx_0125"
+  },
+  {
+    "question": "What alumni was also Obama's campaign adviser?",
+    "answer": "David Axelrod",
+    "context_doc_id": "squad_ctx_0126"
+  },
+  {
+    "question": "Who will be the new executive producer of Doctor Who in 2018?",
+    "answer": "Chris Chibnall",
+    "context_doc_id": "squad_ctx_0127"
+  },
+  {
+    "question": "How frequent is snow in the Southwest of the state?",
+    "answer": "very rare",
+    "context_doc_id": "squad_ctx_0128"
+  },
+  {
+    "question": "How many areas were impacted by the the death of vegetation in the 2010 drought?",
+    "answer": "three epicenters",
+    "context_doc_id": "squad_ctx_0129"
+  },
+  {
+    "question": "Who provides the bill of quantities?",
+    "answer": "a quantity surveyor",
+    "context_doc_id": "squad_ctx_0130"
+  },
+  {
+    "question": "How many invertebrate species are known in Brazil alone?",
+    "answer": "96,660 and 128,843",
+    "context_doc_id": "squad_ctx_0131"
+  },
+  {
+    "question": "The practice of occupying and looting Huguenot homes was called?",
+    "answer": "dragonnades",
+    "context_doc_id": "squad_ctx_0132"
+  },
+  {
+    "question": "What team did Justin Tucker play for?",
+    "answer": "Baltimore Ravens",
+    "context_doc_id": "squad_ctx_0118"
+  },
+  {
+    "question": "Who reportedly wanted Tesla's company?",
+    "answer": "women",
+    "context_doc_id": "squad_ctx_0133"
+  },
+  {
+    "question": "The prospect of what event compelled the protection of German private schools?",
+    "answer": "second Gleichschaltung",
+    "context_doc_id": "squad_ctx_0134"
+  },
+  {
+    "question": "For what type of music was Doctor Who considered a pioneer?",
+    "answer": "electronic",
+    "context_doc_id": "squad_ctx_0135"
+  },
+  {
+    "question": "How many botanical gardens does Warsaw have?",
+    "answer": "two",
+    "context_doc_id": "squad_ctx_0136"
+  },
+  {
+    "question": "What devices have been credited as the moving force of the Industrial Revolution?",
+    "answer": "Steam engines",
+    "context_doc_id": "squad_ctx_0137"
+  },
+  {
+    "question": "People behaving with civil disobedience that is not-violent is said to make society have more of what?",
+    "answer": "tolerance",
+    "context_doc_id": "squad_ctx_0138"
+  },
+  {
+    "question": "What is Warsaw's name in the Polish language?",
+    "answer": "Warszawa",
+    "context_doc_id": "squad_ctx_0091"
+  },
+  {
+    "question": "What about Luther declined as his antisemitism increased?",
+    "answer": "his health",
+    "context_doc_id": "squad_ctx_0139"
+  },
+  {
+    "question": "What aid is available to underprivileged students seeking to attend a private university?",
+    "answer": "Private Education Student Financial Assistance",
+    "context_doc_id": "squad_ctx_0140"
+  },
+  {
+    "question": "When did the last batch of students that followed the former system graudate?",
+    "answer": "1992",
+    "context_doc_id": "squad_ctx_0141"
+  },
+  {
+    "question": "How many other important people sent letters?",
+    "answer": "more than 70",
+    "context_doc_id": "squad_ctx_0142"
+  },
+  {
+    "question": "What was the occupation of Tesla's father?",
+    "answer": "priest",
+    "context_doc_id": "squad_ctx_0043"
+  },
+  {
+    "question": "In the capabilities approach, grow and income are considered a means to an end rather than what?",
+    "answer": "the end itself",
+    "context_doc_id": "squad_ctx_0143"
+  },
+  {
+    "question": "How many interceptions did Josh Norman score touchdowns with in 2015?",
+    "answer": "two.",
+    "context_doc_id": "squad_ctx_0144"
+  },
+  {
+    "question": "What is the festival of food and drink known as?",
+    "answer": "EAT!",
+    "context_doc_id": "squad_ctx_0145"
+  },
+  {
+    "question": "Who may be a spiritual teacher in the LDS Church?",
+    "answer": "many individuals",
+    "context_doc_id": "squad_ctx_0146"
+  },
+  {
+    "question": "Because speakers are drawn from across Scotland, what do the represent the balance of?",
+    "answer": "religious beliefs",
+    "context_doc_id": "squad_ctx_0147"
+  },
+  {
+    "question": "What co-receptor on the T cell helps in recognizing the MHC-antigen complex?",
+    "answer": "CD8",
+    "context_doc_id": "squad_ctx_0148"
+  },
+  {
+    "question": "What was the Henry Cole Wing previously called?",
+    "answer": "School for Naval Architects",
+    "context_doc_id": "squad_ctx_0149"
+  },
+  {
+    "question": "When did the Syrian Civil War begin?",
+    "answer": "March 2011",
+    "context_doc_id": "squad_ctx_0150"
+  },
+  {
+    "question": "What is the name of the donor who helped establish the Hutchinson Commons?",
+    "answer": "Charles L. Hutchinson",
+    "context_doc_id": "squad_ctx_0151"
+  },
+  {
+    "question": "Which country did Japan force into an alliance?",
+    "answer": "Thailand",
+    "context_doc_id": "squad_ctx_0152"
+  },
+  {
+    "question": "Where are the streams the Rhine captured?",
+    "answer": "Vosges Mountains",
+    "context_doc_id": "squad_ctx_0153"
+  },
+  {
+    "question": "How much support does evidence provide for the view that labor-market flexibility improves labor-market outcomes?",
+    "answer": "little",
+    "context_doc_id": "squad_ctx_0154"
+  },
+  {
+    "question": "What are two examples of measurements are bound within algorithms to establish complexity classes?",
+    "answer": "time or space",
+    "context_doc_id": "squad_ctx_0155"
+  },
+  {
+    "question": "Who fumbled the ball on 3rd-and-9?",
+    "answer": "Newton",
+    "context_doc_id": "squad_ctx_0156"
+  },
+  {
+    "question": "What organization did Tesla serve as vice president of?",
+    "answer": "American Institute of Electrical Engineers",
+    "context_doc_id": "squad_ctx_0157"
+  },
+  {
+    "question": "What did Pegasus satellites measure to propose the safety of the environment in space and on the moon?",
+    "answer": "frequency and severity of micrometeorite impacts",
+    "context_doc_id": "squad_ctx_0158"
+  },
+  {
+    "question": "What type of beings does Doctor Who usually take with him on his travels?",
+    "answer": "humans",
+    "context_doc_id": "squad_ctx_0159"
+  },
+  {
+    "question": "Who has the role of holding the Scottish Government to account?",
+    "answer": "Scottish Parliament",
+    "context_doc_id": "squad_ctx_0160"
+  },
+  {
+    "question": "What does the IPCC rely on for research?",
+    "answer": "other scientific bodies",
+    "context_doc_id": "squad_ctx_0161"
+  },
+  {
+    "question": "How does Victoria rank as to population density?",
+    "answer": "most densely populated",
+    "context_doc_id": "squad_ctx_0006"
+  },
+  {
+    "question": "Trotsky thought what was needed for a true Russian revolution.",
+    "answer": "a world revolution",
+    "context_doc_id": "squad_ctx_0162"
+  },
+  {
+    "question": "How many parts does the consideration of a bill in Stage 3 have?",
+    "answer": "two",
+    "context_doc_id": "squad_ctx_0163"
+  },
+  {
+    "question": "When was the heyday of secular Arab nationalism?",
+    "answer": "between 1945 and 1970",
+    "context_doc_id": "squad_ctx_0164"
+  },
+  {
+    "question": "What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?",
+    "answer": "DTIME(f(n))",
+    "context_doc_id": "squad_ctx_0165"
+  },
+  {
+    "question": "What is the name of the port city that was created?",
+    "answer": "Mombasa",
+    "context_doc_id": "squad_ctx_0166"
+  },
+  {
+    "question": "What is the former name of the V&A Theatre & Performance galleries?",
+    "answer": "Theatre Museum",
+    "context_doc_id": "squad_ctx_0167"
+  },
+  {
+    "question": "In contrast how were Catholic saints portrayed?",
+    "answer": "frail Catholic saints",
+    "context_doc_id": "squad_ctx_0168"
+  },
+  {
+    "question": "Where do ctenophores be found in large numbers?",
+    "answer": "In bays",
+    "context_doc_id": "squad_ctx_0169"
+  },
+  {
+    "question": "What type of status did the UMC vote to seek in the National Association of Evangelicals?",
+    "answer": "observer status",
+    "context_doc_id": "squad_ctx_0170"
+  },
+  {
+    "question": "What was the name of the first Doctor Who story released as an LP?",
+    "answer": "Doctor Who and the Pescatons",
+    "context_doc_id": "squad_ctx_0171"
+  },
+  {
+    "question": "Who led the in house design studies for NASA?",
+    "answer": "Maxime Faget",
+    "context_doc_id": "squad_ctx_0172"
+  },
+  {
+    "question": "In which case were French vigilantes sabotaging shipments of Spanish Strawberries?",
+    "answer": "Commission v France",
+    "context_doc_id": "squad_ctx_0173"
+  },
+  {
+    "question": "Who has released official reconstructions of Doctor Who episodes?",
+    "answer": "the BBC",
+    "context_doc_id": "squad_ctx_0174"
+  },
+  {
+    "question": "What items comprise the John Jones Collection?",
+    "answer": "French 18th-century art and furnishings",
+    "context_doc_id": "squad_ctx_0175"
+  },
+  {
+    "question": "In what episode does the Eleventh Doctor first acknowledge his number?",
+    "answer": "The Lodger",
+    "context_doc_id": "squad_ctx_0176"
+  },
+  {
+    "question": "Classifying the stages of what is important to mapping aspects of the Amazon?",
+    "answer": "tree growth",
+    "context_doc_id": "squad_ctx_0177"
+  },
+  {
+    "question": "Which Mongolian president lauded Genghis Khan on the 850th anniversary of the conqueror's birth?",
+    "answer": "Tsakhiagiin Elbegdorj",
+    "context_doc_id": "squad_ctx_0178"
+  },
+  {
+    "question": "What performer lead the Super Bowl XLVIII halftime show?",
+    "answer": "Bruno Mars",
+    "context_doc_id": "squad_ctx_0117"
+  },
+  {
+    "question": "What do some researchers believe is the earliest-diverging animal phylum is?",
+    "answer": "Porifera",
+    "context_doc_id": "squad_ctx_0020"
+  },
+  {
+    "question": "What did Temüjin promise his followers in exchange for their obedience?",
+    "answer": "wealth from future possible war spoils",
+    "context_doc_id": "squad_ctx_0179"
+  },
+  {
+    "question": "For how long did the plague stick around?",
+    "answer": "until the 19th century",
+    "context_doc_id": "squad_ctx_0180"
+  },
+  {
+    "question": "At what age do immune responses typically begin to decline?",
+    "answer": "around 50 years of age",
+    "context_doc_id": "squad_ctx_0181"
+  },
+  {
+    "question": "In what country can most of the Amazon rainforest be found?",
+    "answer": "Brazil",
+    "context_doc_id": "squad_ctx_0182"
+  },
+  {
+    "question": "Where did the movement that would become The United Methodist Church begin?",
+    "answer": "within the Church of England",
+    "context_doc_id": "squad_ctx_0183"
+  },
+  {
+    "question": "What group started peace meetings?",
+    "answer": "Evangelical Lutheran Church",
+    "context_doc_id": "squad_ctx_0184"
+  },
+  {
+    "question": "How many 2015 season interceptions did the Panthers' defense get?",
+    "answer": "24",
+    "context_doc_id": "squad_ctx_0144"
+  },
+  {
+    "question": "WHat allows customers to get Sky+ functions if they do not subscribe to BSkyB's channels?",
+    "answer": "monthly fee",
+    "context_doc_id": "squad_ctx_0185"
+  },
+  {
+    "question": "What type of item is the mostly likely to show in the V&A computer system?",
+    "answer": "newly accessioned into the collection",
+    "context_doc_id": "squad_ctx_0186"
+  },
+  {
+    "question": "Stephen Eilmann demonstrates covert law breaking in Nazi Germany.   Citizen's illegally had been doing what?",
+    "answer": "hiding a Jew in their house",
+    "context_doc_id": "squad_ctx_0187"
+  },
+  {
+    "question": "What influences chloroplasts' behavior?",
+    "answer": "environmental factors like light color and intensity",
+    "context_doc_id": "squad_ctx_0188"
+  },
+  {
+    "question": "What does the original manuscript show?",
+    "answer": "multiple revisions",
+    "context_doc_id": "squad_ctx_0189"
+  },
+  {
+    "question": "How many French colonists were gained by British?",
+    "answer": "80,000",
+    "context_doc_id": "squad_ctx_0190"
+  },
+  {
+    "question": "What did the merchants of Newcastle plot to do to Timothy Dexter?",
+    "answer": "ruin him",
+    "context_doc_id": "squad_ctx_0191"
+  },
+  {
+    "question": "How are laboratory measurements of forces determined?",
+    "answer": "experimentation",
+    "context_doc_id": "squad_ctx_0192"
+  },
+  {
+    "question": "In what Super Bowl did Rivera play?",
+    "answer": "Super Bowl XX",
+    "context_doc_id": "squad_ctx_0193"
+  },
+  {
+    "question": "What is the 16th century known as the start of?",
+    "answer": "the historical era",
+    "context_doc_id": "squad_ctx_0194"
+  },
+  {
+    "question": "When was the Cretaceous-Paleogen extinction occur?",
+    "answer": "65.5 million years ago",
+    "context_doc_id": "squad_ctx_0195"
+  },
+  {
+    "question": "How many teams did Los Angeles used to have?",
+    "answer": "two",
+    "context_doc_id": "squad_ctx_0196"
+  },
+  {
+    "question": "When were the French wars of religion?",
+    "answer": "16th century",
+    "context_doc_id": "squad_ctx_0197"
+  },
+  {
+    "question": "When did Menich serve as President?",
+    "answer": "1695–1696",
+    "context_doc_id": "squad_ctx_0198"
+  },
+  {
+    "question": "From where would scientists like measure vegetation radiance?",
+    "answer": "satellite platform",
+    "context_doc_id": "squad_ctx_0199"
+  },
+  {
+    "question": "Which network broadcasted Super Bowl 50 in the U.S.?",
+    "answer": "CBS",
+    "context_doc_id": "squad_ctx_0117"
+  },
+  {
+    "question": "What is the UN's climate change treaty?",
+    "answer": "United Nations Framework Convention on Climate Change",
+    "context_doc_id": "squad_ctx_0200"
+  },
+  {
+    "question": "What theorem defines the main role of primes in number theory?",
+    "answer": "The fundamental theorem of arithmetic",
+    "context_doc_id": "squad_ctx_0201"
+  },
+  {
+    "question": "Who invited Washington to dine with him?",
+    "answer": "Jacques Legardeur de Saint-Pierre",
+    "context_doc_id": "squad_ctx_0202"
+  },
+  {
+    "question": "What was the U.S. Information Agency charged with doing during the Cold War?",
+    "answer": "undermining the communist ideology",
+    "context_doc_id": "squad_ctx_0203"
+  },
+  {
+    "question": "The UMC stands in oppopsition to the creation of embroys for the sake of what?",
+    "answer": "research",
+    "context_doc_id": "squad_ctx_0204"
+  },
+  {
+    "question": "What is the name of the third, permanent Huguenot church in New Rochelle?",
+    "answer": "Trinity-St. Paul's Episcopal Church",
+    "context_doc_id": "squad_ctx_0205"
+  },
+  {
+    "question": "In 1949, UPT was forced to become an independent entity by whom?",
+    "answer": "U.S. Supreme Court",
+    "context_doc_id": "squad_ctx_0206"
+  },
+  {
+    "question": "Which type of law concerns the EU's governance structure?",
+    "answer": "constitutional law",
+    "context_doc_id": "squad_ctx_0207"
+  },
+  {
+    "question": "On where are most tourist attractions focused in Victoria?",
+    "answer": "Melbourne",
+    "context_doc_id": "squad_ctx_0058"
+  },
+  {
+    "question": "What type of people were being brought back to the way of truth?",
+    "answer": "misguided",
+    "context_doc_id": "squad_ctx_0208"
+  },
+  {
+    "question": "In the US, who decides on the requirements for teachers?",
+    "answer": "each state",
+    "context_doc_id": "squad_ctx_0209"
+  },
+  {
+    "question": "What dynasty did Genghis Khan plan to attack after conquering Western Xia?",
+    "answer": "the Jin dynasty",
+    "context_doc_id": "squad_ctx_0210"
+  },
+  {
+    "question": "What was the centrifugal governor incapable of doing?",
+    "answer": "hold a set speed",
+    "context_doc_id": "squad_ctx_0211"
+  },
+  {
+    "question": "Scottish or Irish describe the type of what people in Newcastle have?",
+    "answer": "ancestors",
+    "context_doc_id": "squad_ctx_0212"
+  },
+  {
+    "question": "What club won 118 tournaments and 15 national championships?",
+    "answer": "the University of Chicago College Bowl Team",
+    "context_doc_id": "squad_ctx_0213"
+  },
+  {
+    "question": "What second part of air was deemed lifeless by Lavoisier?",
+    "answer": "azote",
+    "context_doc_id": "squad_ctx_0214"
+  },
+  {
+    "question": "Who married the wedding couple?",
+    "answer": "Johannes Bugenhagen",
+    "context_doc_id": "squad_ctx_0215"
+  },
+  {
+    "question": "What put a hierarchical structure in place?",
+    "answer": "the pre-Heian Imperial court",
+    "context_doc_id": "squad_ctx_0216"
+  },
+  {
+    "question": "How do pathogens avoid detection?",
+    "answer": "Pathogens can rapidly evolve and adapt",
+    "context_doc_id": "squad_ctx_0068"
+  },
+  {
+    "question": "What season was it when Genghis Khan took Xiliang-fu from the Tanguts?",
+    "answer": "autumn",
+    "context_doc_id": "squad_ctx_0217"
+  },
+  {
+    "question": "Why does unemployment harm growth?",
+    "answer": "because it is a waste of resources",
+    "context_doc_id": "squad_ctx_0218"
+  },
+  {
+    "question": "What was the seat of former party leader David McLetchie?",
+    "answer": "Edinburgh Pentlands",
+    "context_doc_id": "squad_ctx_0219"
+  },
+  {
+    "question": "Who did the Panthers beat in the divisional round?",
+    "answer": "Seattle Seahawks",
+    "context_doc_id": "squad_ctx_0220"
+  },
+  {
+    "question": "What is another term for year 12 of education?",
+    "answer": "lower sixth",
+    "context_doc_id": "squad_ctx_0221"
+  },
+  {
+    "question": "What rituals did Kublai follow to help his image?",
+    "answer": "Confucian propriety and ancestor veneration",
+    "context_doc_id": "squad_ctx_0222"
+  },
+  {
+    "question": "Debates about civil disobedience include or exclude what major practice?",
+    "answer": "violence",
+    "context_doc_id": "squad_ctx_0138"
+  },
+  {
+    "question": "At what university is Bellomy Field located?",
+    "answer": "Santa Clara University",
+    "context_doc_id": "squad_ctx_0223"
+  },
+  {
+    "question": "Antigens bind to what in order to elicit a response of the immune system?",
+    "answer": "specific immune receptors",
+    "context_doc_id": "squad_ctx_0224"
+  },
+  {
+    "question": "Who knocked the ball out of Manning's hands on the next play?",
+    "answer": "Ealy",
+    "context_doc_id": "squad_ctx_0225"
+  },
+  {
+    "question": "When was Dali conquered by the Yuan?",
+    "answer": "1253",
+    "context_doc_id": "squad_ctx_0226"
+  },
+  {
+    "question": "Innate cells can act as mediators in the activation of what branch of the immune system?",
+    "answer": "adaptive immune system",
+    "context_doc_id": "squad_ctx_0227"
+  },
+  {
+    "question": "How many times was Manning intercepted during the 2015 season?",
+    "answer": "17",
+    "context_doc_id": "squad_ctx_0228"
+  },
+  {
+    "question": "Approximately how many images were digitized during the first year of the digitization project?",
+    "answer": "15,000",
+    "context_doc_id": "squad_ctx_0229"
+  },
+  {
+    "question": "When did the Jin dynasty end?",
+    "answer": "1234",
+    "context_doc_id": "squad_ctx_0230"
+  },
+  {
+    "question": "What tool is used in corporal punishment?",
+    "answer": "a specially made wooden paddle",
+    "context_doc_id": "squad_ctx_0231"
+  },
+  {
+    "question": "What slogan accompanied the 40th anniversary logo for ABC?",
+    "answer": "That Special Feeling",
+    "context_doc_id": "squad_ctx_0232"
+  },
+  {
+    "question": "When did he make the quoted remarks about Super Bowl 50?",
+    "answer": "early 2012",
+    "context_doc_id": "squad_ctx_0233"
+  },
+  {
+    "question": "Paramount paid fo, 10 Cloverfield Lane and which other film trailer to be aired during the game?",
+    "answer": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "context_doc_id": "squad_ctx_0234"
+  },
+  {
+    "question": "What is the AFC short for?",
+    "answer": "American Football Conference",
+    "context_doc_id": "squad_ctx_0235"
+  },
+  {
+    "question": "What would someone who is civilly disobedient do in court?",
+    "answer": "inform the jury and the public of the political circumstances",
+    "context_doc_id": "squad_ctx_0236"
+  },
+  {
+    "question": "What is it called when there is an active attempt to overthrow a government or belief system?",
+    "answer": "Revolutionary civil disobedience",
+    "context_doc_id": "squad_ctx_0116"
+  },
+  {
+    "question": "How many people in Quzhou are descended from Confucius?",
+    "answer": "30,000",
+    "context_doc_id": "squad_ctx_0230"
+  },
+  {
+    "question": "Who did ABC sell the rights to All My Children and One Life to Live to?",
+    "answer": "Prospect Park",
+    "context_doc_id": "squad_ctx_0237"
+  },
+  {
+    "question": "Of what form do Mersenne primes take?",
+    "answer": "2p − 1",
+    "context_doc_id": "squad_ctx_0238"
+  },
+  {
+    "question": "What does chlorophyll use light energy to do?",
+    "answer": "energize electrons",
+    "context_doc_id": "squad_ctx_0239"
+  },
+  {
+    "question": "Whose 1758 portrait by François Boucher was part of Jones bequest?",
+    "answer": "Madame de Pompadour",
+    "context_doc_id": "squad_ctx_0240"
+  },
+  {
+    "question": "What is the name of the quarterback who was 38 in Super Bowl XXXIII?",
+    "answer": "John Elway",
+    "context_doc_id": "squad_ctx_0241"
+  },
+  {
+    "question": "Over 100 Egyptian police were victims of what group's campaign of terror?",
+    "answer": "al-Gama'a al-Islamiyya",
+    "context_doc_id": "squad_ctx_0242"
+  },
+  {
+    "question": "What did Smedley Butler call US foreign Policy?",
+    "answer": "a \"racket\"",
+    "context_doc_id": "squad_ctx_0243"
+  },
+  {
+    "question": "Who lead the 1968 special programming for ABC Radio's FM stations?",
+    "answer": "Allen Shaw",
+    "context_doc_id": "squad_ctx_0244"
+  },
+  {
+    "question": "What comedy for ABC ended its broadcast run in 1986?",
+    "answer": "The Love Boat",
+    "context_doc_id": "squad_ctx_0245"
+  },
+  {
+    "question": "What venue did Super Bowl 50 take place in?",
+    "answer": "Levi's Stadium",
+    "context_doc_id": "squad_ctx_0235"
+  },
+  {
+    "question": "How large are granal thylakoids?",
+    "answer": "about 300–600 nanometers in diameter",
+    "context_doc_id": "squad_ctx_0246"
+  },
+  {
+    "question": "What were the annual carriage fees for the channels?",
+    "answer": "£30m",
+    "context_doc_id": "squad_ctx_0247"
+  },
+  {
+    "question": "What percentage of the land cleared in the Amazon is used for growing livestock?",
+    "answer": "91%",
+    "context_doc_id": "squad_ctx_0248"
+  },
+  {
+    "question": "What may explain why some Americans who've become rich may have had a head start?",
+    "answer": "Inherited wealth",
+    "context_doc_id": "squad_ctx_0249"
+  },
+  {
+    "question": "Who wrote about the great pestilence in 1893?",
+    "answer": "Francis Aidan Gasquet",
+    "context_doc_id": "squad_ctx_0250"
+  },
+  {
+    "question": "What is the process of turning CO2 into organic molecules called?",
+    "answer": "the Calvin cycle",
+    "context_doc_id": "squad_ctx_0251"
+  },
+  {
+    "question": "What is an alternate way to make starch?",
+    "answer": "glucose monomers in the chloroplast can be linked together",
+    "context_doc_id": "squad_ctx_0079"
+  },
+  {
+    "question": "When did the Steven Spielberg movie Duel first debut?",
+    "answer": "1971",
+    "context_doc_id": "squad_ctx_0252"
+  },
+  {
+    "question": "In what areas does most of the learning take place?",
+    "answer": "self-study and problem solving",
+    "context_doc_id": "squad_ctx_0253"
+  },
+  {
+    "question": "What shape is the water feature in the John Madejski Garden?",
+    "answer": "elliptical",
+    "context_doc_id": "squad_ctx_0254"
+  },
+  {
+    "question": "What is the most likely effect of breathing oxygen?",
+    "answer": "placebo",
+    "context_doc_id": "squad_ctx_0255"
+  },
+  {
+    "question": "How many soldiers did Genghis Khan take with him to Khwarezmia?",
+    "answer": "100,000",
+    "context_doc_id": "squad_ctx_0256"
+  },
+  {
+    "question": "What is the Island off of the German shore of the Rhine that this warm and cold water meet?",
+    "answer": "Lindau",
+    "context_doc_id": "squad_ctx_0257"
+  },
+  {
+    "question": "What year did AGOA take effect?",
+    "answer": "2000",
+    "context_doc_id": "squad_ctx_0258"
+  },
+  {
+    "question": "When did Syria and Egypt launch a surprise attack on Israel?",
+    "answer": "On October 6, 1973",
+    "context_doc_id": "squad_ctx_0259"
+  },
+  {
+    "question": "Who was at the receiving end of a 22-yard pass from Peyton Manning?",
+    "answer": "Andre Caldwell",
+    "context_doc_id": "squad_ctx_0260"
+  },
+  {
+    "question": "Where was the ESPN Deportes Spanish version of Super Bowl 50 available?",
+    "answer": "WatchESPN.",
+    "context_doc_id": "squad_ctx_0261"
+  },
+  {
+    "question": "What did the IPCC say was mistaken?",
+    "answer": "the date",
+    "context_doc_id": "squad_ctx_0094"
+  },
+  {
+    "question": "Which sea was oil discovered in?",
+    "answer": "North",
+    "context_doc_id": "squad_ctx_0262"
+  },
+  {
+    "question": "How many did this epidemic in China kill?",
+    "answer": "an estimated 25 million",
+    "context_doc_id": "squad_ctx_0263"
+  },
+  {
+    "question": "How do students learn about the church?",
+    "answer": "confirmation and membership preparation classes",
+    "context_doc_id": "squad_ctx_0264"
+  },
+  {
+    "question": "In which year did the Royal College of Art gained full independence from the V&A?",
+    "answer": "1949",
+    "context_doc_id": "squad_ctx_0090"
+  },
+  {
+    "question": "What building is the most interesting of the late 19th-century architecture?",
+    "answer": "Warsaw University of Technology building",
+    "context_doc_id": "squad_ctx_0265"
+  },
+  {
+    "question": "Where is Newcastle's horse racing course located?",
+    "answer": "Gosforth Park",
+    "context_doc_id": "squad_ctx_0266"
+  },
+  {
+    "question": "What is the name of the post-independence government school system in Malaysia?",
+    "answer": "National School",
+    "context_doc_id": "squad_ctx_0267"
+  },
+  {
+    "question": "What field involves the study of the immune system?",
+    "answer": "Immunology",
+    "context_doc_id": "squad_ctx_0268"
+  },
+  {
+    "question": "What political group began to gain support following the corruption scandal?",
+    "answer": "Jacksonville Consolidation",
+    "context_doc_id": "squad_ctx_0269"
+  },
+  {
+    "question": "What is the derivative of an object's changing momentum called?",
+    "answer": "gravitational force",
+    "context_doc_id": "squad_ctx_0270"
+  },
+  {
+    "question": "How is unregistered property held in informal form?",
+    "answer": "through various associations and other arrangements",
+    "context_doc_id": "squad_ctx_0271"
+  },
+  {
+    "question": "What do government's run that affects teachers?",
+    "answer": "teacher's colleges",
+    "context_doc_id": "squad_ctx_0272"
+  },
+  {
+    "question": "What is the name for the smaller streams along the region northern Germany?",
+    "answer": "Rijn",
+    "context_doc_id": "squad_ctx_0273"
+  },
+  {
+    "question": "What are the specific divisors of all even numbers larger than 2?",
+    "answer": "1, 2, and n",
+    "context_doc_id": "squad_ctx_0274"
+  },
+  {
+    "question": "When was the paper published that the \"Millennial Northern Hemisphere temperature reconstruction\" graph was based on?",
+    "answer": "1999",
+    "context_doc_id": "squad_ctx_0275"
+  },
+  {
+    "question": "What city, raided by clans and dukes, preceded the founding of Warszowa?",
+    "answer": "Jazdów",
+    "context_doc_id": "squad_ctx_0276"
+  },
+  {
+    "question": "How were the Mongol garrison families earning money?",
+    "answer": "income from the harvests of their Chinese tenants",
+    "context_doc_id": "squad_ctx_0277"
+  }
+]

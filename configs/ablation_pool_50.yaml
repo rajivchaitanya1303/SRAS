@@ -1,0 +1,3 @@
+name: ablation_pool_50
+evaluation:
+  candidate_pool_size: 50

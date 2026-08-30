@@ -1,0 +1,4 @@
+name: ablation_reward_0507
+training:
+  reward_f1_weight: 0.5
+  reward_bertscore_weight: 0.7

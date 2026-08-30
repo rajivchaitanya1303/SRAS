@@ -1,0 +1,5 @@
+name: ablation_topk_1
+training:
+  top_k: 1
+evaluation:
+  top_k: 1

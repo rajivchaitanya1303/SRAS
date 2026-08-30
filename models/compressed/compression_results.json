@@ -1,0 +1,9 @@
+[
+  {
+    "label": "original",
+    "latency_ms": 0.30253800010541454,
+    "num_params": 296961,
+    "sparsity": 0.0,
+    "model_size_mb": 1.1379766464233398
+  }
+]

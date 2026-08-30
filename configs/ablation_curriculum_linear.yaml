@@ -1,0 +1,7 @@
+name: ablation_curriculum_linear
+training:
+  curriculum_schedule: linear
+  ablations:
+    use_supervised_warmup: true
+    use_reward_shaping: true
+    use_curriculum_learning: true

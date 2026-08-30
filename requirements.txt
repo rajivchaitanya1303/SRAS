@@ -1,0 +1,15 @@
+torch>=2.0.0
+# Pinned: transformers>=4.47 / sentence-transformers>=4.0 require torch>=2.5,
+# which silently breaks import (NameError: name 'torch' is not defined) on
+# older torch builds such as this project's original 2.3.1+cpu / 2.11.0+cu126.
+transformers==4.46.3
+sentence-transformers==3.3.1
+bert-score>=0.3.13
+numpy>=1.24.0
+tqdm>=4.65.0
+pyyaml>=6.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+rank-bm25>=0.2.2
+psutil>=5.9.0
+datasets>=2.14.0

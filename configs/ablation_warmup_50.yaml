@@ -1,0 +1,3 @@
+name: ablation_warmup_50
+training:
+  supervised_epochs: 50
